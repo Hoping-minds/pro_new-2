@@ -1,7 +1,7 @@
 import React from 'react'
 const Repoort = () => {
   return (
-    <div>Repoort</div>
+    <div></div>
   )
 }
 
