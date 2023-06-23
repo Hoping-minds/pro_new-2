@@ -6,7 +6,7 @@ const SidebarMenu = () => {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="bg-dark col-auto col-md-2 min-vh-100 d flex justify-content-between flex-column">
+        <div className="bg-secondary col-auto col-md-2 min-vh-100 d flex justify-content-between flex-column">
           <hr/>
           <ul className="nav nav-pills flex-column">
             <li className="nav-item text-white fs-4 my-1">

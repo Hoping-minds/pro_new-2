@@ -1,7 +1,9 @@
 import React from 'react'
 const Repoort = () => {
   return (
-    <div></div>
+    <div>
+      report
+    </div>
   )
 }
 
